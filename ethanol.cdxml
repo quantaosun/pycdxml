@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd" >
+<CDXML CreationProgram="CDXML Slide Generator 0.0.1" Name="ACS 1996" BoundingBox="0 0 220.19 79.29" WindowPosition="0 0" WindowSize="-859045888 0" WindowIsZoomed="yes" FractionalWidths="yes" InterpretChemically="yes" ShowAtomQuery="yes" ShowAtomStereo="no" ShowAtomEnhancedStereo="yes" ShowAtomNumber="no" ShowResidueID="no" ShowBondQuery="yes" ShowBondRxn="yes" ShowBondStereo="no" ShowTerminalCarbonLabels="no" ShowNonTerminalCarbonLabels="no" HideImplicitHydrogens="no" LabelFont="1" LabelSize="10" LabelFace="96" CaptionFont="1" CaptionSize="10" HashSpacing="2.50" MarginWidth="1.60" LineWidth="0.60" BoldWidth="2" BondLength="14.40" BondSpacing="18" ChainAngle="120" LabelJustification="Auto" CaptionJustification="Left" AminoAcidTermini="HOH" ShowSequenceTermini="yes" ShowSequenceBonds="yes" ShowSequenceUnlinkedBranches="no" ResidueWrapCount="40" ResidueBlockCount="10" ResidueZigZag="yes" NumberResidueBlocks="no" PrintMargins="36 36 36 36" color="0" bgcolor="1">
+	<colortable>
+		<color r="1" g="1" b="1"/>
+		<color r="0" g="0" b="0"/>
+	</colortable>
+	<fonttable>
+		<font id="1" charset="iso-8859-1" name="Arial"/>
+	</fonttable>
+	<page id="1" BoundingBox="0 0 540 719.75" HeaderPosition="36" FooterPosition="36" PrintTrimMarks="yes" HeightPages="1" WidthPages="1">
+		<fragment id="2" BoundingBox="28.35 28.35 53.29 35.55" Z="20">
+			<n id="3" p="28.35 35.55" Z="23" Element="6" AS="N"/>
+			<n id="4" p="40.82 28.35" Z="24" Element="6" AS="N"/>
+			<n id="5" p="53.29 35.55" Z="25" Element="8" AS="N" NumHydrogens="1">
+				<t id="6">
+					<s font="1" size="10.0" face="96" color="0">OH</s>
+				</t>
+			</n>
+			<b id="7" Z="27" B="3" E="4" BS="N"/>
+			<b id="8" Z="28" B="4" E="5" BS="N"/>
+		</fragment>
+	</page>
+</CDXML>
